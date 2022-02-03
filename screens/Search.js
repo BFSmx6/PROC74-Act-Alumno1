@@ -142,7 +142,7 @@ export default class SearchScreen extends Component {
               style={styles.scanbutton}
               onPress={() => this.handleSearch(searchText)}
             >
-              <Text style={styles.scanbuttonText}>Search</Text>
+              <Text style={styles.scanbuttonText}>Buscar</Text>
             </TouchableOpacity>
           </View>
         </View>
